@@ -7,6 +7,8 @@ public class Sample {
 		System.out.println("browser");
 		System.out.println("username");
 		System.out.println("password");
+		System.out.println("updated");
+		System.out.println("quit browser");
 
 	}
 }
